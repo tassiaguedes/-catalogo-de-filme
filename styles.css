@@ -1,8 +1,8 @@
 body {
     color: white;
-    background: black;
+    background: rgb(255, 171, 0);
     margin: 0px;
-    font-family: "Chinese Rocks", majuscule;
+    font-family: "Chinese Rocks";
     margin-bottom: 100px;
 }
 
